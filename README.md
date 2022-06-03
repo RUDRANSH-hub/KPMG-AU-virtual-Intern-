@@ -5,3 +5,5 @@ I completed the KPMG Data Analytics Virtual Consulting Internship recently. The 
 Moreover, it felt like a small professional project wherein you have to take care of the communication part as well, that is essential in a corporate setup. 
 
 To brief about the tasks in detail, it involved analyzing business data sets and improving their data quality. Then target specific customers through the analysis of customer behaviour trends and patterns. Then representing all of these insights by using a dashboard through Tableau, Power BI and Excel.
+
+![KPMG](https://user-images.githubusercontent.com/84043023/171815530-3782d8c2-6d1b-41d4-a817-fee25cb1e1c3.jpg)
