@@ -6,4 +6,5 @@ Moreover, it felt like a small professional project wherein you have to take car
 
 To brief about the tasks in detail, it involved analyzing business data sets and improving their data quality. Then target specific customers through the analysis of customer behaviour trends and patterns. Then representing all of these insights by using a dashboard through Tableau, Power BI and Excel.
 
-![KPMG](https://user-images.githubusercontent.com/84043023/171815530-3782d8c2-6d1b-41d4-a817-fee25cb1e1c3.jpg)
+<br>
+![KPMG](https://user-images.githubusercontent.com/84043023/171815778-30a5dad7-a94a-45b7-b32e-d34c42b46894.jpg)
